@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\servicehelper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\servicehelper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\errorprob\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\errorprob\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\errorprob\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\errorprob\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\errorprob\\controllerbaseextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\errorprob\\controllerbaseextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\errorprob\\errorproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\errorprob\\errorproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\resultcommonlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\resultcommonlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\resultsuccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\resultsuccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\randomstringgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\randomstringgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\ivalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\ivalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\regexpatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\regexpatterns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\mediatorextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\mediatorextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\dbcontextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\dbcontextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\dependencies\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\dependencies\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|c:\\users\\user\\source\\repos\\servicehelper\\servicehelper\\servicehelper\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59F3F60-0FAC-4610-94BC-FA1AF512E493}|ServiceHelper\\ServiceHelper.csproj|solutionrelative:servicehelper\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceHelper",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\ServiceHelper.csproj",
+              "RelativeDocumentMoniker": "ServiceHelper\\ServiceHelper.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\ServiceHelper.csproj",
+              "RelativeToolTip": "ServiceHelper\\ServiceHelper.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T12:05:46.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Constants.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Constants.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Constants.cs",
+              "RelativeToolTip": "ServiceHelper\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:35:27.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ServiceHelper\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:34:48.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ErrorProb\\PasswordValidator.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\ErrorProb\\PasswordValidator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ErrorProb\\PasswordValidator.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\ErrorProb\\PasswordValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:33:46.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ErrorProb\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\ErrorProb\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ErrorProb\\PasswordHasher.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\ErrorProb\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:33:33.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControllerBaseExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ErrorProb\\ControllerBaseExtensions.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\ErrorProb\\ControllerBaseExtensions.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ErrorProb\\ControllerBaseExtensions.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\ErrorProb\\ControllerBaseExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:33:24.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorProblemDetails.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ErrorProb\\ErrorProblemDetails.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\ErrorProb\\ErrorProblemDetails.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ErrorProb\\ErrorProblemDetails.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\ErrorProb\\ErrorProblemDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:32:36.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Result.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Result.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Result.cs",
+              "RelativeToolTip": "ServiceHelper\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:31:31.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\ApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ApplicationRepository.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\ApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:10:26.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResultCommonLogic.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ResultCommonLogic.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\ResultCommonLogic.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ResultCommonLogic.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\ResultCommonLogic.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:28:04.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResultSuccessException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ResultSuccessException.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\ResultSuccessException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ResultSuccessException.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\ResultSuccessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:28:03.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\SpecificationEvaluator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\SpecificationEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:28:01.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ValueObject.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ValueObject.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\ValueObject.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:27:58.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IValue.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\IValue.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\IValue.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\IValue.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\IValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:17:01.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\IUnitOfWork.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:16:59.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ISpecification.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\ISpecification.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\ISpecification.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:16:58.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IResult.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\IResult.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\IResult.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\IResult.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\IResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:16:57.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\Result.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\Result.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\Result.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\Result.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:17:12.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\IRepository.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\IRepository.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:16:55.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\IAggregateRoot.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\IAggregateRoot.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\IAggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:16:51.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\Error.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\Error.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\Error.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:16:49.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Enumeration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\Enumeration.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\Enumeration.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\Enumeration.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\Enumeration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:16:46.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RandomStringGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\RandomStringGenerator.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\RandomStringGenerator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\RandomStringGenerator.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\RandomStringGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:17:05.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\IDomainEvent.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:16:53.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\RepositoryBase.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:17:09.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegexPatterns.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\RegexPatterns.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\RegexPatterns.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\RegexPatterns.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\RegexPatterns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:17:07.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MediatorExtention.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\MediatorExtention.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\MediatorExtention.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\MediatorExtention.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\MediatorExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:17:02.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\Entity.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\Entity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\Entity.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:16:45.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\DependencyInjection.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:13:04.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DbContextBase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\DbContextBase.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\DbContextBase.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\DbContextBase.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\DbContextBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:12:26.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\Country.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Dependencies\\Country.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Dependencies\\Country.cs",
+              "RelativeToolTip": "ServiceHelper\\Dependencies\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:12:24.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Class1.cs",
+              "RelativeDocumentMoniker": "ServiceHelper\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServiceHelper\\ServiceHelper\\ServiceHelper\\Class1.cs",
+              "RelativeToolTip": "ServiceHelper\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:06:38.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

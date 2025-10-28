@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\obj\Debug\net8.0\ServiceHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\obj\Debug\net8.0\ServiceHelper.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\obj\Debug\net8.0\ServiceHelper.AssemblyInfo.cs
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\obj\Debug\net8.0\ServiceHelper.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\obj\Debug\net8.0\ServiceHelper.sourcelink.json
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\obj\Debug\net8.0\ServiceHelper.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\bin\Debug\net8.0\ServiceHelper.deps.json
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\bin\Debug\net8.0\ServiceHelper.runtimeconfig.json
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\bin\Debug\net8.0\ServiceHelper.dll
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\bin\Debug\net8.0\ServiceHelper.pdb
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\obj\Debug\net8.0\ServiceHelper.dll
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\obj\Debug\net8.0\refint\ServiceHelper.dll
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\obj\Debug\net8.0\ServiceHelper.pdb
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\obj\Debug\net8.0\ServiceHelper.genruntimeconfig.cache
+C:\Users\user\source\repos\ServiceHelper\ServiceHelper\ServiceHelper\obj\Debug\net8.0\ref\ServiceHelper.dll
