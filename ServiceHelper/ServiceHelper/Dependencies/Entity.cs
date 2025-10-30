@@ -1,4 +1,6 @@
-﻿namespace ServiceHelper.Dependencies
+﻿using ServiceHelper.DomainEvent;
+
+namespace ServiceHelper.Dependencies
 {
     public class Entity
     {

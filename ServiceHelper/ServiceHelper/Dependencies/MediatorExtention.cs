@@ -1,5 +1,6 @@
 ﻿using MediatR;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
+using ServiceHelper.DomainEvent;
 
 namespace ServiceHelper.Dependencies
 {
